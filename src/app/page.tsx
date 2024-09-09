@@ -1,4 +1,4 @@
-import { PersistentTabs } from '@/components/persistent-tabs/base-animated-tabs';
+import { PersistentTabs } from '@/components/persistent-tabs/base-persistent-tabs';
 import { Suspense } from 'react';
 
 export default function Home() {
